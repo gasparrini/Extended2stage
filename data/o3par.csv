@@ -1,0 +1,109 @@
+"city","cityname","state","statename","coef","vcov"
+"akr","Akron","OH","Ohio",0.00131153994272079,1.39620841069104e-06
+"albu","Albuquerque","NM","New Mexico",0.00551177125784099,2.6727558656005e-06
+"anch","Anchorage","AK","Alaska",NA,NA
+"arlv","Arlington","VA","Virginia",0.0183361684018335,7.00557823661116e-06
+"atla","Atlanta","GA","Georgia",0.00175929881671449,7.28775423560181e-07
+"aust","Austin","TX","Texas",0.00270775381500672,8.1804271339281e-07
+"bake","Bakersfield","CA","California",0.00666166165284346,1.0606871307262e-06
+"balt","Baltimore","MD","Maryland",0.00380416716096389,1.08166934739505e-06
+"batr","Baton Rouge","LA","Louisiana",0.00201624301981301,1.01038861977053e-06
+"bidd","Biddeford","ME","Maine",-0.0091046632893568,3.6869961585277e-06
+"birm","Birmingham","AL","Alabama",0.000899567605160973,1.23747027871844e-06
+"bost","Boston","MA","Massachusetts",0.00194262169322541,9.5560943821798e-07
+"buff","Buffalo","NY","New York",0.00482752198234253,4.09443263728571e-07
+"cayc","Cayce","SC","South Carolina",NA,NA
+"cdrp","Cedar Rapids","IA","Iowa",0.00315344373567967,1.47669966778871e-06
+"char","Charlotte","NC","North Carolina",0.00625849972339589,1.68041486566639e-06
+"chic","Chicago","IL","Illinois",0.00624009170996889,1.69916117632384e-07
+"cinc","Cincinnati","OH","Ohio",0.0165870751270976,1.30395263378527e-06
+"clev","Cleveland","OH","Ohio",0.00604377935536276,4.69562014427733e-07
+"clmg","Columbus","GA","Georgia",0.00248156187465018,1.01700867894043e-06
+"clmo","Columbus","OH","Ohio",0.00646837128231711,1.25624462577858e-06
+"colo","Colorado Springs","CO","Colorado",0.00853156065963304,1.90537527477967e-06
+"corp","Corpus Christi","TX","Texas",0.00120963006403929,1.12184938989974e-06
+"covt","Coventry","RI","Rhode Island",-0.00583919128095846,1.28567394207964e-06
+"dayt","Dayton","OH","Ohio",0.00590559835179816,1.62522060545252e-06
+"dc","Washington","DC","District of Columbia",0.0106300341283849,9.12362633010244e-07
+"denv","Denver","CO","Colorado",-0.00189644651347987,1.29553439330767e-06
+"desm","Des Moines","IA","Iowa",0.00313930801330784,2.1576979866832e-06
+"det","Detroit","MI","Michigan",0.0100474264737399,5.46655631462298e-07
+"dlft","Dallas/Fort Worth","TX","Texas",0.00539292762831617,1.91963909501957e-07
+"elpa","El Paso","TX","Texas",-0.00592550914979222,2.23488468946709e-06
+"evan","Evansville","IN","Indiana",0.00242228410274335,1.61008329681587e-06
+"fres","Fresno","CA","California",0.00389720416602477,1.48792687402448e-06
+"ftwa","Fort Wayne","IN","Indiana",0.00382137232908854,2.01816957467828e-06
+"gdrp","Grand Rapids","MI","Michigan",0.00766803557737652,1.502479015372e-06
+"grnb","Greensboro","NC","North Carolina",0.00475280900982695,2.37502381575971e-06
+"hono","Honolulu","HI","Hawaii",-0.00595853403924926,1.52884040449539e-06
+"hous","Houston","TX","Texas",0.00222497757267716,2.21689629014224e-07
+"hunt","Huntsville","AL","Alabama",0.0098548382652317,1.68210411506852e-06
+"indi","Indianapolis","IN","Indiana",0.00659709364686206,1.26124517886086e-06
+"jcks","Jackson","MS","Mississippi",-0.00131635091827014,1.3840795611724e-06
+"jckv","Jacksonville","FL","Florida",-0.0040766032186246,7.86697231488462e-07
+"jers","Jersey City","NJ","New Jersey",0.00557964265776866,8.21649549998138e-07
+"john","Johnstown","PA","Pennsylvania",-0.00259156271697377,2.10359549852713e-06
+"kan","Kansas City","MO","Missouri",0.00788554909088683,7.48649338948938e-07
+"kans","Kansas City","KS","Kansas",0.00238213415111022,1.35761477794215e-06
+"king","Kingston","NY","New York",0.00348226909164732,9.54507282566169e-07
+"knox","Knoxville","TN","Tennessee",0.0016944054269076,2.20315409583636e-06
+"la","Los Angeles","CA","California",0.00163272987062718,1.50924135569057e-07
+"lafy","Lafayette","LA","Louisiana",0.000443503645545252,9.67246918813624e-07
+"lasv","Las Vegas","NV","Nevada",-0.00401569877069282,7.58963668683735e-07
+"lex","Lexington","KY","Kentucky",0.00101447197214775,1.90372518233699e-06
+"linc","Lincoln","NE","Nebraska",0.00751502575120331,3.11650375778596e-06
+"lkch","Lake Charles","LA","Louisiana",-0.00192767701661833,9.95657204227641e-07
+"loui","Louisville","KY","Kentucky",0.00253890608665951,1.05640812424272e-06
+"ltrk","Little Rock","AR","Arkansas",6.0359068409772e-05,1.33508099593038e-06
+"lubb","Lubbock","TX","Texas",NA,NA
+"madi","Madison","WI","Wisconsin",0.0155613279368499,3.48134665187044e-06
+"memp","Memphis","TN","Tennessee",0.00385624415435678,9.19707372779081e-07
+"miam","Miami","FL","Florida",-6.15790751908077e-05,2.67946441825356e-07
+"milw","Milwaukee","WI","Wisconsin",0.00874285511655406,7.75352860149163e-07
+"minn","Minneapolis/St. Paul","MN","Minnesota",NA,NA
+"mobi","Mobile","AL","Alabama",0.00654045902245218,1.4329708528129e-06
+"mode","Modesto","CA","California",0.00564514723142481,2.51682583996712e-06
+"musk","Muskegon","MI","Michigan",0.00118486695426484,3.1468694474961e-06
+"nash","Nashville","TN","Tennessee",0.00739479887025375,1.49285222040013e-06
+"new","Newport News","VA","Virginia",NA,NA
+"no","New Orleans","LA","Louisiana",-0.000786128143860149,8.23325671350749e-07
+"nor","Norfolk","VA","Virginia",NA,NA
+"nwk","Newark","NJ","New Jersey",0.00312974558063919,7.15304364803888e-07
+"ny","New York","NY","New York",0.00655257347757378,9.93506955508491e-08
+"oakl","Oakland","CA","California",0.00106081458585097,1.20053830639207e-06
+"okla","Oklahoma City","OK","Oklahoma",0.00627577754109518,7.11986146787693e-07
+"olym","Olympia","WA","Washington",NA,NA
+"oma","Omaha","NE","Nebraska",0.0104910073191205,2.11986819440467e-06
+"orla","Orlando","FL","Florida",-0.00223350423860779,8.7479172169249e-07
+"phil","Philadelphia","PA","Pennsylvania",0.00709185286260262,2.83758003562741e-07
+"phoe","Phoenix","AZ","Arizona",0.00101436262800989,6.96087112513433e-07
+"pitt","Pittsburgh","PA","Pennsylvania",0.00332940737227626,3.53598279575383e-07
+"port","Portland","OR","Oregon",0.00610159396975908,2.64779824038417e-06
+"prov","Providence","RI","Rhode Island",0.0112058585629476,1.01628742352691e-06
+"ral","Raleigh","NC","North Carolina",-0.00522083628352053,1.97448226635034e-06
+"rich","Richmond","VA","Virginia",NA,NA
+"rive","Riverside","CA","California",0.00464586796697831,5.09821414312762e-07
+"roch","Rochester","NY","New York",0.0108577666723937,6.78791200513556e-07
+"sacr","Sacramento","CA","California",0.00363851637934332,1.09018634448003e-06
+"salt","Salt Lake City","UT","Utah",0.000653907300611946,3.56802254381295e-06
+"sana","San Antonio","TX","Texas",-0.00199474627131398,5.39897792810517e-07
+"sanb","San Bernardino","CA","California",0.00492768706903214,5.79802289681168e-07
+"sand","San Diego","CA","California",0.00237144287581502,3.69883595621786e-07
+"sanf","San Francisco","CA","California",NA,NA
+"sanj","San Jose","CA","California",0.00601383706367339,1.406926339972e-06
+"seat","Seattle","WA","Washington",0.005396189483068,1.67770721879394e-06
+"shr","Shreveport","LA","Louisiana",0.00547978566926664,1.18157344169403e-06
+"spok","Spokane","WA","Washington",0.0105250834147194,5.5294332740695e-06
+"staa","Santa Ana/Anaheim","CA","California",-0.00330687948229101,4.65421827083757e-07
+"stlo","St. Louis","MO","Missouri",0.00944107429925206,2.1188914567142e-06
+"stoc","Stockton","CA","California",0.00283994309460027,2.086270774104e-06
+"stpe","St. Petersburg","FL","Florida",-0.00496085295234657,3.20961663346721e-07
+"syra","Syracuse","NY","New York",0.00704903238778677,8.57942472344175e-07
+"taco","Tacoma","WA","Washington",0.00176618198908172,1.90173454248785e-06
+"tamp","Tampa","FL","Florida",-0.00347037324367281,5.03634686971425e-07
+"tole","Toledo","OH","Ohio",0.0156145501808578,1.63253617238517e-06
+"tope","Topeka","KS","Kansas",NA,NA
+"tucs","Tucson","AZ","Arizona",-0.00532668009915967,1.49509945854366e-06
+"tuls","Tulsa","OK","Oklahoma",0.00719053687639426,1.02048748960971e-06
+"wich","Wichita","KS","Kansas",0.00357022661523577,1.88111979282282e-06
+"wor","Worcester","MA","Massachusetts",0.0126417271934308,7.43459024632728e-07

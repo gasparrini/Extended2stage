@@ -1,0 +1,125 @@
+"city","rank","stfips","cofips","state","statename","fips","county","cityname","order","citynameU","region","old","pop"
+"la",1,6,37,"CA","California",6037,"Los Angeles County","Los Angeles",1,"Los Angeles","SC",1,9519338
+"ny",2,36,5,"NY","New York",36005,"Bronx County","New York",2,"New York","NE",1,1332650
+"ny",2,36,47,"NY","New York",36047,"Kings County","New York",3,"New York","NE",1,2465326
+"ny",2,36,61,"NY","New York",36061,"New York County","New York",4,"New York","NE",1,1537195
+"ny",2,36,85,"NY","New York",36085,"Richmond County","New York",5,"New York","NE",1,443728
+"ny",2,36,81,"NY","New York",36081,"Queens County","New York",6,"New York","NE",1,2229379
+"ny",2,36,119,"NY","New York",36119,"Westchester County","New York",7,"New York","NE",1,923459
+"chic",3,17,31,"IL","Illinois",17031,"Cook County","Chicago",8,"Chicago","IM",1,5376741
+"hous",5,48,201,"TX","Texas",48201,"Harris County","Houston",9,"Houston","SE",1,3400578
+"sand",6,6,73,"CA","California",6073,"San Diego County","San Diego",10,"San Diego","SC",1,2813833
+"staa",7,6,59,"CA","California",6059,"Orange County","Santa Ana/Anaheim",11,"Santa Ana/Anaheim","SC",1,2846289
+"dlft",4,48,113,"TX","Texas",48113,"Dallas County","Dallas/Fort Worth",12,"Dallas/Fort Worth","SE",1,2218899
+"dlft",4,48,439,"TX","Texas",48439,"Tarrant County","Dallas/Fort Worth",13,"Dallas/Fort Worth","SE",1,1446219
+"dlft",4,48,85,"TX","Texas",48085,"Collin County","Dallas/Fort Worth",14,"Dallas/Fort Worth","SE",1,491675
+"dlft",4,48,397,"TX","Texas",48397,"Rockwall County","Dallas/Fort Worth",15,"Dallas/Fort Worth","SE",1,43080
+"phoe",8,4,13,"AZ","Arizona",4013,"Maricopa County","Phoenix",16,"Phoenix","SW",1,3072149
+"det",9,26,163,"MI","Michigan",26163,"Wayne County","Detroit",17,"Detroit","IM",1,2061162
+"miam",10,12,25,"FL","Florida",12025,"Dade County (renamed Miami-Dade 12086)","Miami",18,"Miami","SE",1,2253362
+"phil",11,42,101,"PA","Pennsylvania",42101,"Philadelphia County","Philadelphia",19,"Philadelphia","NE",1,1517550
+"minn",12,27,53,"MN","Minnesota",27053,"Hennepin County","Minneapolis/St. Paul",20,"Minneapolis/St. Paul","UM",1,1116200
+"minn",12,27,123,"MN","Minnesota",27123,"Ramsey County","Minneapolis/St. Paul",21,"Minneapolis/St. Paul","UM",1,511035
+"seat",13,53,33,"WA","Washington",53033,"King County","Seattle",22,"Seattle","NW",1,1737034
+"sanj",14,6,85,"CA","California",6085,"Santa Clara County","San Jose",23,"San Jose","NW",1,1682585
+"clev",15,39,35,"OH","Ohio",39035,"Cuyahoga County","Cleveland",24,"Cleveland","IM",1,1393978
+"sanb",16,6,71,"CA","California",6071,"San Bernardino County","San Bernardino",25,"San Bernardino","SC",1,1709434
+"pitt",17,42,3,"PA","Pennsylvania",42003,"Allegheny County","Pittsburgh",26,"Pittsburgh","IM",1,1281666
+"oakl",18,6,1,"CA","California",6001,"Alameda County","Oakland",27,"Oakland","NW",1,1443741
+"sana",20,48,29,"TX","Texas",48029,"Bexar County","San Antonio",28,"San Antonio","SW",1,1392931
+"rive",21,6,65,"CA","California",6065,"Riverside County","Riverside",29,"Riverside","SC",1,1545387
+"denv",22,8,31,"CO","Colorado",8031,"Denver County","Denver",30,"Denver","NW",1,554636
+"denv",22,8,1,"CO","Colorado",8001,"Adams County","Denver",31,"Denver","NW",1,363857
+"denv",22,8,5,"CO","Colorado",8005,"Arapahoe County","Denver",32,"Denver","NW",1,487967
+"sacr",23,6,67,"CA","California",6067,"Sacramento County","Sacramento",33,"Sacramento","NW",1,1223499
+"stlo",24,29,510,"MO","Missouri",29510,"St. Louis city","St. Louis",34,"St. Louis","IM",1,348189
+"buff",25,36,29,"NY","New York",36029,"Erie County","Buffalo",35,"Buffalo","IM",1,950265
+"clmo",26,39,49,"OH","Ohio",39049,"Franklin County","Columbus",36,"Columbus, OH","IM",1,1068978
+"milw",NA,55,79,"WI","Wisconsin",55079,"Milwaukee County","Milwaukee",37,"Milwaukee","IM",0,940164
+"cinc",27,39,61,"OH","Ohio",39061,"Hamilton County","Cincinnati",38,"Cincinnati","IM",1,848303
+"stpe",28,12,103,"FL","Florida",12103,"Pinellas County","St. Petersburg",39,"St. Petersburg","SE",1,921482
+"kan",29,29,47,"MO","Missouri",29047,"Clay County","Kansas City",40,"Kansas City, MO","UM",1,184006
+"kan",29,29,95,"MO","Missouri",29095,"Jackson County","Kansas City",41,"Kansas City, MO","UM",1,654880
+"kan",29,29,165,"MO","Missouri",29165,"Platte County","Kansas City",42,"Kansas City, MO","UM",1,73781
+"hono",30,15,3,"HI","Hawaii",15003,"Honolulu County","Honolulu",43,"Honolulu","OT",1,876156
+"tamp",31,12,57,"FL","Florida",12057,"Hillsborough County","Tampa",44,"Tampa","SE",1,998948
+"memp",32,47,157,"TN","Tennessee",47157,"Shelby County","Memphis",45,"Memphis","SE",1,897472
+"indi",33,18,97,"IN","Indiana",18097,"Marion County","Indianapolis",46,"Indianapolis","IM",1,860454
+"nwk",34,34,13,"NJ","New Jersey",34013,"Essex County","Newark",47,"Newark","NE",1,793633
+"lasv",NA,32,3,"NV","Nevada",32003,"Clark County","Las Vegas",48,"Las Vegas","SW",0,1375765
+"balt",35,24,510,"MD","Maryland",24510,"Baltimore city","Baltimore",49,"Baltimore","NE",1,635154
+"salt",36,49,35,"UT","Utah",49035,"Salt Lake County","Salt Lake City",50,"Salt Lake City","NW",1,898387
+"sanf",NA,6,75,"CA","California",6075,"San Francisco County","San Francisco",51,"San Francisco","NW",0,776733
+"roch",37,36,55,"NY","New York",36055,"Monroe County","Rochester",52,"Rochester","NE",1,735343
+"wor",38,25,27,"MA","Massachusetts",25027,"Worcester County","Worcester",53,"Worcester","NE",1,750963
+"orla",39,12,95,"FL","Florida",12095,"Orange County","Orlando",54,"Orlando","SE",1,896344
+"jckv",40,12,31,"FL","Florida",12031,"Duval County","Jacksonville",55,"Jacksonville","SE",1,778879
+"fres",41,6,19,"CA","California",6019,"Fresno County","Fresno",56,"Fresno","SC",1,799407
+"tucs",NA,4,19,"AZ","Arizona",4019,"Pima County","Tucson",57,"Tucson","SW",0,843746
+"loui",42,21,111,"KY","Kentucky",21111,"Jefferson County","Louisville",58,"Louisville","IM",1,693604
+"bost",43,25,25,"MA","Massachusetts",25025,"Suffolk County","Boston",59,"Boston","NE",1,689807
+"birm",44,1,73,"AL","Alabama",1073,"Jefferson County","Birmingham",60,"Birmingham","SE",1,662047
+"dc",45,11,1,"DC","District of Columbia",11001,"District of Columbia","Washington",61,"Washington","NE",1,572059
+"okla",46,40,109,"OK","Oklahoma",40109,"Oklahoma County","Oklahoma City",62,"Oklahoma City","SW",1,660448
+"prov",47,44,7,"RI","Rhode Island",44007,"Providence County","Providence",63,"Providence","NE",1,621602
+"elpa",48,48,141,"TX","Texas",48141,"El Paso County","El Paso",64,"El Paso","SW",1,679622
+"taco",49,53,53,"WA","Washington",53053,"Pierce County","Tacoma",65,"Tacoma","NW",1,700820
+"aust",50,48,453,"TX","Texas",48453,"Travis County","Austin",66,"Austin","SW",1,812280
+"dayt",51,39,113,"OH","Ohio",39113,"Montgomery County","Dayton",67,"Dayton","IM",1,559062
+"jers",52,34,17,"NJ","New Jersey",34017,"Hudson County","Jersey City",68,"Jersey City","NE",1,608975
+"bake",53,6,29,"CA","California",6029,"Kern County","Bakersfield",69,"Bakersfield","SC",1,661645
+"akr",54,39,153,"OH","Ohio",39153,"Summit County","Akron",70,"Akron","IM",1,542899
+"char",55,37,119,"NC","North Carolina",37119,"Mecklenburg County","Charlotte",71,"Charlotte","SE",1,695454
+"nash",56,47,37,"TN","Tennessee",47037,"Davidson County","Nashville",72,"Nashville","SE",1,569891
+"tuls",57,40,143,"OK","Oklahoma",40143,"Tulsa County","Tulsa",73,"Tulsa","SE",1,563299
+"gdrp",58,26,81,"MI","Michigan",26081,"Kent County","Grand Rapids",74,"Grand Rapids","IM",1,574335
+"no",59,22,71,"LA","Louisiana",22071,"Orleans Parish","New Orleans",75,"New Orleans","SE",1,484674
+"stoc",60,6,77,"CA","California",6077,"San Joaquin County","Stockton",76,"Stockton","NW",1,563598
+"albu",61,35,1,"NM","New Mexico",35001,"Bernalillo County","Albuquerque",77,"Albuquerque","SW",1,556678
+"syra",62,36,67,"NY","New York",36067,"Onondaga County","Syracuse",78,"Syracuse","NE",1,454336
+"tole",63,39,95,"OH","Ohio",39095,"Lucas County","Toledo",79,"Toledo","IM",1,455054
+"ral",64,37,183,"NC","North Carolina",37183,"Wake County","Raleigh",80,"Raleigh","SE",1,627846
+"oma",NA,31,55,"NE","Nebraska",31055,"Douglas County","Omaha",81,"Omaha","UM",0,463585
+"wich",65,20,173,"KS","Kansas",20173,"Sedgwick County","Wichita",82,"Wichita","UM",1,452869
+"colo",66,8,41,"CO","Colorado",8041,"El Paso County","Colorado Springs",83,"Colorado Springs","NW",1,516929
+"batr",67,22,33,"LA","Louisiana",22033,"East Baton Rouge Parish","Baton Rouge",85,"Baton Rouge","SE",1,412852
+"mobi",NA,1,97,"AL","Alabama",1097,"Mobile County","Mobile",86,"Mobile","SE",0,399843
+"mode",68,6,99,"CA","California",6099,"Stanislaus County","Modesto",87,"Modesto","NW",1,446997
+"madi",69,55,25,"WI","Wisconsin",55025,"Dane County","Madison",88,"Madison","IM",1,426526
+"spok",70,53,63,"WA","Washington",53063,"Spokane County","Spokane",89,"Spokane","NW",1,417939
+"ltrk",71,5,119,"AR","Arkansas",5119,"Pulaski County","Little Rock",90,"Little Rock","SE",1,361474
+"grnb",72,37,81,"NC","North Carolina",37081,"Guilford County","Greensboro",91,"Greensboro","SE",1,421048
+"knox",73,47,93,"TN","Tennessee",47093,"Knox County","Knoxville",92,"Knoxville","SE",1,382032
+"shr",74,22,15,"LA","Louisiana",22015,"Bossier Parish","Shreveport",93,"Shreveport","SE",1,98310
+"shr",74,22,17,"LA","Louisiana",22017,"Caddo Parish","Shreveport",94,"Shreveport","SE",1,252161
+"desm",75,19,153,"IA","Iowa",19153,"Polk County","Des Moines",95,"Des Moines","UM",1,374601
+"ftwa",76,18,3,"IN","Indiana",18003,"Allen County","Fort Wayne",96,"Fort Wayne","IM",1,331849
+"corp",77,48,355,"TX","Texas",48355,"Nueces County","Corpus Christi",97,"Corpus Christi","SW",1,313645
+"port",NA,41,5,"OR","Oregon",41005,"Clackamas County","Portland",98,"Portland *","NW",0,338391
+"port",NA,41,51,"OR","Oregon",41051,"Multnomah County","Portland",98,"Portland","NW",0,660486
+"nor",78,51,710,"VA","Virginia",51710,"Norfolk city","Norfolk",99,"Norfolk","NE",1,234403
+"jcks",79,28,49,"MS","Mississippi",28049,"Hinds County","Jackson",100,"Jackson","SE",1,250800
+"hunt",80,1,89,"AL","Alabama",1089,"Madison County","Huntsville",101,"Huntsville","SE",1,276700
+"anch",81,2,20,"AK","Alaska",2020,"Anchorage Borough","Anchorage",102,"Anchorage","OT",1,260283
+"lex",82,21,67,"KY","Kentucky",21067,"Fayette County","Lexington",103,"Lexington","IM",1,260512
+"lubb",83,48,303,"TX","Texas",48303,"Lubbock County","Lubbock",104,"Lubbock","SW",1,242628
+"linc",NA,31,109,"NE","Nebraska",31109,"Lancaster County","Lincoln",105,"Lincoln","UM",0,250291
+"rich",84,51,760,"VA","Virginia",51760,"Richmond city","Richmond",107,"Richmond","NE",1,197790
+"clmg",NA,13,215,"GA","Georgia",13215,"Muscogee County","Columbus",110,"Columbus","SE",0,186291
+"arlv",85,51,13,"VA","Virginia",51013,"Arlington County","Arlington",111,"Arlington","NE",1,189453
+"new",NA,51,700,"VA","Virginia",51700,"Newport News city","Newport News",112,"Newport News","NE",0,180150
+"cdrp",NA,19,113,"IA","Iowa",19113,"Linn County","Cedar Rapids",113,"Cedar Rapids","UM",0,191701
+"lkch",NA,22,19,"LA","Louisiana",22019,"Calcasieu Parish","Lake Charles",114,"Lake Charles","SE",0,183577
+"cayc",NA,45,63,"SC","South Carolina",45063,"Lexington County","Cayce",115,"Cayce","SE",0,216014
+"king",86,36,111,"NY","New York",36111,"Ulster County","Kingston",117,"Kingston","NE",1,177749
+"lafy",NA,22,55,"LA","Louisiana",22055,"Lafayette Parish","Lafayette",118,"Lafayette","SE",0,190503
+"bidd",NA,23,31,"ME","Maine",23031,"York County","Biddeford",119,"Biddeford","NE",0,186742
+"john",NA,42,21,"PA","Pennsylvania",42021,"Cambria County","Johnstown",120,"Johnstown","NE",0,152598
+"kans",88,20,209,"KS","Kansas",20209,"Wyandotte County","Kansas City",121,"Kansas City, KS","UM",1,157882
+"olym",89,53,67,"WA","Washington",53067,"Thurston County","Olympia",123,"Olympia","NW",1,207355
+"covt",NA,44,3,"RI","Rhode Island",44003,"Kent County","Coventry",124,"Coventry","NE",0,167090
+"tope",90,20,177,"KS","Kansas",20177,"Shawnee County","Topeka",125,"Topeka","UM",1,169871
+"musk",NA,26,121,"MI","Michigan",26121,"Muskegon County","Muskegon",126,"Muskegon","IM",0,170200
+"evan",87,18,163,"IN","Indiana",18163,"Vanderburgh County","Evansville",127,"Evansville","IM",1,171922
+"atla",19,13,121,"GA","Georgia",13121,"Fulton County","Atlanta",128,"Atlanta","SE",1,816006
+"atla",19,13,89,"GA","Georgia",13089,"DeKalb County","Atlanta",129,"Atlanta","SE",1,665865

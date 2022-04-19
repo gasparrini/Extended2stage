@@ -1,0 +1,109 @@
+"city","state","statename","stfips","region","order","old","cityname","citynameU","pop"
+"akr","OH","Ohio",39,"IM",70,1,"Akron","Akron",542899
+"albu","NM","New Mexico",35,"SW",77,1,"Albuquerque","Albuquerque",556678
+"anch","AK","Alaska",2,"OT",102,1,"Anchorage","Anchorage",260283
+"arlv","VA","Virginia",51,"NE",111,1,"Arlington","Arlington",189453
+"atla","GA","Georgia",13,"SE",129,1,"Atlanta","Atlanta",1481871
+"aust","TX","Texas",48,"SW",66,1,"Austin","Austin",812280
+"bake","CA","California",6,"SC",69,1,"Bakersfield","Bakersfield",661645
+"balt","MD","Maryland",24,"NE",49,1,"Baltimore","Baltimore",635154
+"batr","LA","Louisiana",22,"SE",85,1,"Baton Rouge","Baton Rouge",412852
+"bidd","ME","Maine",23,"NE",119,0,"Biddeford","Biddeford",186742
+"birm","AL","Alabama",1,"SE",60,1,"Birmingham","Birmingham",662047
+"bost","MA","Massachusetts",25,"NE",59,1,"Boston","Boston",689807
+"buff","NY","New York",36,"IM",35,1,"Buffalo","Buffalo",950265
+"cayc","SC","South Carolina",45,"SE",115,0,"Cayce","Cayce",216014
+"cdrp","IA","Iowa",19,"UM",113,0,"Cedar Rapids","Cedar Rapids",191701
+"char","NC","North Carolina",37,"SE",71,1,"Charlotte","Charlotte",695454
+"chic","IL","Illinois",17,"IM",8,1,"Chicago","Chicago",5376741
+"cinc","OH","Ohio",39,"IM",38,1,"Cincinnati","Cincinnati",848303
+"clev","OH","Ohio",39,"IM",24,1,"Cleveland","Cleveland",1393978
+"clmg","GA","Georgia",13,"SE",110,0,"Columbus","Columbus, GA",186291
+"clmo","OH","Ohio",39,"IM",36,1,"Columbus","Columbus, OH",1068978
+"colo","CO","Colorado",8,"NW",83,1,"Colorado Springs","Colorado Springs",516929
+"corp","TX","Texas",48,"SW",97,1,"Corpus Christi","Corpus Christi",313645
+"covt","RI","Rhode Island",44,"NE",124,0,"Coventry","Coventry",167090
+"dayt","OH","Ohio",39,"IM",67,1,"Dayton","Dayton",559062
+"dc","DC","District of Columbia",11,"NE",61,1,"Washington","Washington",572059
+"denv","CO","Colorado",8,"NW",32,1,"Denver","Denver",1406460
+"desm","IA","Iowa",19,"UM",95,1,"Des Moines","Des Moines",374601
+"det","MI","Michigan",26,"IM",17,1,"Detroit","Detroit",2061162
+"dlft","TX","Texas",48,"SE",15,1,"Dallas/Fort Worth","Dallas/Fort Worth",4199873
+"elpa","TX","Texas",48,"SW",64,1,"El Paso","El Paso",679622
+"evan","IN","Indiana",18,"IM",127,1,"Evansville","Evansville",171922
+"fres","CA","California",6,"SC",56,1,"Fresno","Fresno",799407
+"ftwa","IN","Indiana",18,"IM",96,1,"Fort Wayne","Fort Wayne",331849
+"gdrp","MI","Michigan",26,"IM",74,1,"Grand Rapids","Grand Rapids",574335
+"grnb","NC","North Carolina",37,"SE",91,1,"Greensboro","Greensboro",421048
+"hono","HI","Hawaii",15,"OT",43,1,"Honolulu","Honolulu",876156
+"hous","TX","Texas",48,"SE",9,1,"Houston","Houston",3400578
+"hunt","AL","Alabama",1,"SE",101,1,"Huntsville","Huntsville",276700
+"indi","IN","Indiana",18,"IM",46,1,"Indianapolis","Indianapolis",860454
+"jcks","MS","Mississippi",28,"SE",100,1,"Jackson","Jackson",250800
+"jckv","FL","Florida",12,"SE",55,1,"Jacksonville","Jacksonville",778879
+"jers","NJ","New Jersey",34,"NE",68,1,"Jersey City","Jersey City",608975
+"john","PA","Pennsylvania",42,"NE",120,0,"Johnstown","Johnstown",152598
+"kan","MO","Missouri",29,"UM",42,1,"Kansas City","Kansas City, MO",912667
+"kans","KS","Kansas",20,"UM",121,1,"Kansas City","Kansas City, KS",157882
+"king","NY","New York",36,"NE",117,1,"Kingston","Kingston",177749
+"knox","TN","Tennessee",47,"SE",92,1,"Knoxville","Knoxville",382032
+"la","CA","California",6,"SC",1,1,"Los Angeles","Los Angeles",9519338
+"lafy","LA","Louisiana",22,"SE",118,0,"Lafayette","Lafayette",190503
+"lasv","NV","Nevada",32,"SW",48,0,"Las Vegas","Las Vegas",1375765
+"lex","KY","Kentucky",21,"IM",103,1,"Lexington","Lexington",260512
+"linc","NE","Nebraska",31,"UM",105,0,"Lincoln","Lincoln",250291
+"lkch","LA","Louisiana",22,"SE",114,0,"Lake Charles","Lake Charles",183577
+"loui","KY","Kentucky",21,"IM",58,1,"Louisville","Louisville",693604
+"ltrk","AR","Arkansas",5,"SE",90,1,"Little Rock","Little Rock",361474
+"lubb","TX","Texas",48,"SW",104,1,"Lubbock","Lubbock",242628
+"madi","WI","Wisconsin",55,"IM",88,1,"Madison","Madison",426526
+"memp","TN","Tennessee",47,"SE",45,1,"Memphis","Memphis",897472
+"miam","FL","Florida",12,"SE",18,1,"Miami","Miami",2253362
+"milw","WI","Wisconsin",55,"IM",37,0,"Milwaukee","Milwaukee",940164
+"minn","MN","Minnesota",27,"UM",21,1,"Minneapolis/St. Paul","Minneapolis/St. Paul",1627235
+"mobi","AL","Alabama",1,"SE",86,0,"Mobile","Mobile",399843
+"mode","CA","California",6,"NW",87,1,"Modesto","Modesto",446997
+"musk","MI","Michigan",26,"IM",126,0,"Muskegon","Muskegon",170200
+"nash","TN","Tennessee",47,"SE",72,1,"Nashville","Nashville",569891
+"new","VA","Virginia",51,"NE",112,0,"Newport News","Newport News",180150
+"no","LA","Louisiana",22,"SE",75,1,"New Orleans","New Orleans",484674
+"nor","VA","Virginia",51,"NE",99,1,"Norfolk","Norfolk",234403
+"nwk","NJ","New Jersey",34,"NE",47,1,"Newark","Newark",793633
+"ny","NY","New York",36,"NE",7,1,"New York","New York",8931737
+"oakl","CA","California",6,"NW",27,1,"Oakland","Oakland",1443741
+"okla","OK","Oklahoma",40,"SW",62,1,"Oklahoma City","Oklahoma City",660448
+"olym","WA","Washington",53,"NW",123,1,"Olympia","Olympia",207355
+"oma","NE","Nebraska",31,"UM",81,0,"Omaha","Omaha",463585
+"orla","FL","Florida",12,"SE",54,1,"Orlando","Orlando",896344
+"phil","PA","Pennsylvania",42,"NE",19,1,"Philadelphia","Philadelphia",1517550
+"phoe","AZ","Arizona",4,"SW",16,1,"Phoenix","Phoenix",3072149
+"pitt","PA","Pennsylvania",42,"IM",26,1,"Pittsburgh","Pittsburgh",1281666
+"port","OR","Oregon",41,"NW",98,0,"Portland","Portland",998877
+"prov","RI","Rhode Island",44,"NE",63,1,"Providence","Providence",621602
+"ral","NC","North Carolina",37,"SE",80,1,"Raleigh","Raleigh",627846
+"rich","VA","Virginia",51,"NE",107,1,"Richmond","Richmond",197790
+"rive","CA","California",6,"SC",29,1,"Riverside","Riverside",1545387
+"roch","NY","New York",36,"NE",52,1,"Rochester","Rochester",735343
+"sacr","CA","California",6,"NW",33,1,"Sacramento","Sacramento",1223499
+"salt","UT","Utah",49,"NW",50,1,"Salt Lake City","Salt Lake City",898387
+"sana","TX","Texas",48,"SW",28,1,"San Antonio","San Antonio",1392931
+"sanb","CA","California",6,"SC",25,1,"San Bernardino","San Bernardino",1709434
+"sand","CA","California",6,"SC",10,1,"San Diego","San Diego",2813833
+"sanf","CA","California",6,"NW",51,0,"San Francisco","San Francisco",776733
+"sanj","CA","California",6,"NW",23,1,"San Jose","San Jose",1682585
+"seat","WA","Washington",53,"NW",22,1,"Seattle","Seattle",1737034
+"shr","LA","Louisiana",22,"SE",94,1,"Shreveport","Shreveport",350471
+"spok","WA","Washington",53,"NW",89,1,"Spokane","Spokane",417939
+"staa","CA","California",6,"SC",11,1,"Santa Ana/Anaheim","Santa Ana/Anaheim",2846289
+"stlo","MO","Missouri",29,"IM",34,1,"St. Louis","St. Louis",348189
+"stoc","CA","California",6,"NW",76,1,"Stockton","Stockton",563598
+"stpe","FL","Florida",12,"SE",39,1,"St. Petersburg","St. Petersburg",921482
+"syra","NY","New York",36,"NE",78,1,"Syracuse","Syracuse",454336
+"taco","WA","Washington",53,"NW",65,1,"Tacoma","Tacoma",700820
+"tamp","FL","Florida",12,"SE",44,1,"Tampa","Tampa",998948
+"tole","OH","Ohio",39,"IM",79,1,"Toledo","Toledo",455054
+"tope","KS","Kansas",20,"UM",125,1,"Topeka","Topeka",169871
+"tucs","AZ","Arizona",4,"SW",57,0,"Tucson","Tucson",843746
+"tuls","OK","Oklahoma",40,"SE",73,1,"Tulsa","Tulsa",563299
+"wich","KS","Kansas",20,"UM",82,1,"Wichita","Wichita",452869
+"wor","MA","Massachusetts",25,"NE",53,1,"Worcester","Worcester",750963
