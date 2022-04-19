@@ -7,7 +7,7 @@ An illustration of a unified framework that enables several design extension of 
 
 This repository stores the updated R code and data to reproduce the four case studies presented in the article:
 
-Sera F, Gasparrini A. Extended two-stage designs for environmental research. *Environmental Health*. 2022;21:41. DOI: 10.1186/s12940-022-00853-z. PMID: 34432723 [[freely available here](http://www.ag-myresearch.com/2022_sera_envhealth.html)]
+Sera F, Gasparrini A. Extended two-stage designs for environmental research. *Environmental Health*. 2022;21:41. DOI: 10.1186/s12940-022-00853-z. [[freely available here](http://www.ag-myresearch.com/2022_sera_envhealth.html)]
 
 
 ### Data
