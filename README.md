@@ -14,7 +14,7 @@ Sera F, Gasparrini A. Extended two-stage designs for environmental research. *En
 
 The various extensions are illustrated using the database collected as part of the National Morbidity, Mortality and Air Pollution Study (NMMAPS) . This database contains, among other information, daily series of mortality counts as well as weather and pollution measurements for the period 1987–2000 in each of 108 cities in the USA. These data are here complemented with information on air conditioning use, collected longitudinally for a subset of cities (see the article for sources and links).
 
-**Note**: The original datasets composing the NMMAPS database were collected on the 15^th^ of May, 2013, through the R package NMMAPSdata. The package is now archived and the mortality series are not available anymore. Therefore, the results of the first-stage models in each of the four case studies are provided separately in the folder *data*, together with city-specific meta-variables originally in the NMMAPS database. The code for fitting the first-stage models and store the data is provided for completeness (see below), although it cannot be reproduced without the original data.
+**Note**: The original datasets composing the NMMAPS database were collected on the 15th of May, 2013, through the R package NMMAPSdata. The package is now archived and the mortality series are not available anymore. Therefore, the results of the first-stage models in each of the four case studies are provided separately in the folder *data*, together with city-specific meta-variables originally in the NMMAPS database. The code for fitting the first-stage models and store the data is provided for completeness (see below), although it cannot be reproduced without the original data.
 
 Specifically, the folder *data* includes the following datasets:
 
@@ -22,7 +22,7 @@ Specifically, the folder *data* includes the following datasets:
   * *acdata.csv*: complementary data with information on air conditioning use, collected longitudinally for a subset of cities.
   * *tmeanpar.csv*: estimates of the association between heat (summer-only) and all-cause mortality in each city. The estimates are represented by the coefficients and lower triangular entries of the (co)variance matrix of the spline function applied to model summer temperature over lag 0--3. See the Supplementary Information in the article for modelling details.
   * *tmeanagepar.csv* and *tmeanperpar.csv*: estimates of the same association between heat (summer-only) and all-cause mortality in each city, but stratified by age group (0–64, 65–74, 65 and older) and period (1987--98, 1990--92, 1993--95, 1996--98, and 1999--2000), respectively. See the Supplementary Information in the article for modelling details.
-  * *o3par.csv*: estimates of the association between ozone and non-accidental mortality in each city. The estimates are represented by the coefficient and variance of log-RR for an increase in ozone of 10 microg/m^3^. See the Supplementary Information in the article for modelling details.
+  * *o3par.csv*: estimates of the association between ozone and non-accidental mortality in each city. The estimates are represented by the coefficient and variance of log-RR for an increase in ozone of 10 microg/m3. See the Supplementary Information in the article for modelling details.
 
 
 ### R code
