@@ -185,4 +185,4 @@ par(oldpar)
 layout(1)
 
 # PRINT
-dev.print(pdf, file="figures/longitudinal.pdf", height=5, width=12)
+#dev.print(pdf, file="figures/longitudinal.pdf", height=5, width=12)

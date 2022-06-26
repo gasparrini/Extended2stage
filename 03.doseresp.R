@@ -128,4 +128,4 @@ legend("top", as.character(datapred$age), lwd=1.5, col=1:4, bty="n", inset=0.1,
 par(oldpar)
 
 # PRINT
-dev.print(pdf, file="figures/dosresp.pdf", height=4.5, width=6)
+#dev.print(pdf, file="figures/dosresp.pdf", height=4.5, width=6)

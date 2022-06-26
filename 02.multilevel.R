@@ -169,7 +169,7 @@ ggplot(mapstate, aes(long, lat, group=group)) +
   theme_void() +
   theme(legend.position=c(1,0), legend.justification=c(1.2,-0.1)) +
   coord_quickmap()
-ggsave("figures/multilevmap.pdf", height=5, width=9)
+#ggsave("figures/multilevmap.pdf", height=5, width=9)
 
 # FOREST PLOT (VERSION 2)
 ggplot(eststate, aes(fit, state, col=model)) + 
@@ -183,4 +183,4 @@ ggplot(eststate, aes(fit, state, col=model)) +
   coord_cartesian(xlim=c(0.98,1.02)) + 
   theme(legend.position="top") +
   xlab("RR") + ylab("")
-ggsave("figures/multilevforest.pdf", height=9, width=5)
+#ggsave("figures/multilevforest.pdf", height=9, width=5)
