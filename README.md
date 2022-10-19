@@ -27,10 +27,14 @@ Specifically, the folder *data* includes the following datasets:
 
 ### R code
 
-The five R scripts prepare the data and perform the analyses in each of the four case studies. Specifically:
+The four main R scripts perform the analyses in each of the four case studies. Specifically:
 
-  * *00.prepdata.R* loads the original NMMAPS data and performs the first-stage time series models to obtain exposure summaries and estimates of short-term risk associations with air pollution and temperature. These data are used in the following R scripts to perform the second-stage meta-analytical models for each design extension (Note: to run this scripts, the user needs to gather the original NMMAPS data, which is not made available here). 
   * *01.heterogeneity.R* reproduces the first case study, illustrating the extension of the two-stage design for pooling multi-parameter associations. Specifically, the case study investigates the non-linear and delayed relationship between heat and all-cause mortality during the summer months and the potential role of city-specific characteristics in modifying the risk.
   * *02.multilevel.R* reproduces the second case study, describing  the extension of the two-stage design for the analysis of complex hierarchical structures and geographical clustering. Specifically, the case study demonstrates how to combine estimates of associations between ozone and mortality in multiple cities nested within states.
   * *03.doseresp.R* performs the analysis of the third case study, showing the extension of the two-stage design for sub-groups analysis and dose–response relationships. Specifically, the case study illustrates how the heat-mortality association can be estimated when there are repeated measures from the same city, resulting from multiple first-stage models fitted by different age groups. The case study also shows how to flexibly model the age effect in a dose-response fashion.
   * *04.longitudinal.R* reproduces the fourth case study, illustrating the extension of the two-stage design for longitudinal analysis of estimates collected along time. Specifically, the case study examines the temporal changes in the exposure–response curve between heat and mortality, and assesses the role of air conditioning (AC) in attenuating the risk.
+  
+
+### Additional R code
+
+The additional script *00.prepdata.R* in the folder *addcode* folder was used to create the datasets included in the folder *data*. Specifically, the code loads the original NMMAPS data and performs the first-stage time series models to obtain exposure summaries and estimates of short-term risk associations with air pollution and temperature. **Note**: to run this scripts, the user needs to gather the original NMMAPS data, which is not made available here. The script is made available mostly for information about the first-stage modelling, and it is not meant to be run by the users.
