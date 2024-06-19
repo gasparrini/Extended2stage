@@ -9,6 +9,10 @@ This repository stores the updated R code and data to reproduce the four case st
 
 Sera F, Gasparrini A. Extended two-stage designs for environmental research. *Environmental Health*. 2022;21:41. DOI: 10.1186/s12940-022-00853-z. [[freely available here](http://www.ag-myresearch.com/2022_sera_envhealth.html)]
 
+The work was supported by the Medical Research Council-UK (Grant ID: MR/M022625/1),
+the Natural Environment Research Council UK (Grant ID: NE/R009384/1), and
+the European Union’s Horizon 2020 Project Exhaustion (Grant ID: 820655).
+
 
 ### Data
 
